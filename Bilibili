@@ -1,5 +1,6 @@
 #Bilibili去广告加国区码率解锁
 #作者：ddgksf2013
+#脚本地址：https://raw.githubusercontent.com/TangJianM/Rewrite/main/Bilibili
 ########################################
 
 hostname = app.bilibili.com,api.live.bilibili.com,api.vc.bilibili.com, api.bilibili.com, manga.bilibili.com, grpc.biliapi.net,api.biliapi.net, -broadcast.chat.bilibili.com, -*cdn*.biliapi.net, -*tracker*.biliapi.net
