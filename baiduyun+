@@ -1,0 +1,9 @@
+#微信小程序去除广告直接查看隐藏内容或弹窗显示内容
+#作者：ddgksf2013
+#脚本地址：https://ghproxy.com/https://raw.githubusercontent.com/TangJianM/Rewrite/main/baiduyun+
+########################################
+
+# > 百度云 by ddgksf2013
+https:\/\/pan\.baidu\.com\/rest\/2\.0\/membership\/user url script-response-body https://github.com/ddgksf2013/Scripts/raw/master/bdcloud.js
+
+hostname = pan.baidu.com
